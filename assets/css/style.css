@@ -1,0 +1,54 @@
+.cabecera {
+    background-color: black;
+    color: aliceblue;
+}
+.div-img{
+    display: flex;
+    justify-content: center;
+
+}
+.div-infopersonal{
+    text-align: center;
+    background-color: #e7d9da;
+    color: black;
+    font-size: 20px;
+    padding: 5%;
+}
+.card-body{
+    text-align: center;
+}
+.cardimg{
+    height: 250px;
+    width: 250px;
+}
+.div-portafolio{
+    text-align: center;
+    background-color: pink;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+
+.row-cols-1{
+    background-color: pink;
+}
+.div-contacto{
+    text-align: center;
+    background-color: pink;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+.card-header-contacto{
+    text-align: center;
+    background-color: rgb(2, 2, 2);
+    font-size: xx-large;
+    font-weight: bold;
+    color: aliceblue;
+}
+.card-title{
+    color: aliceblue;
+    
+
+
+}       
